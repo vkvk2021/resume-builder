@@ -1,0 +1,8 @@
+alignment - done
+multiple add - done
+validation - done
+localStorage - done
+
+display on resumePage - done
+delete functionality in multiple 
+preview and download
